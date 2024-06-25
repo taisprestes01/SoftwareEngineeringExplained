@@ -48,6 +48,7 @@ Welcome to SoftwareEngineeringExplained! This repository is dedicated to providi
    - **Data Structures**
      - [Arrays and Linked Lists](https://www.example.com/arrays-linked-lists) 📚
      - [Stacks and Queues](https://www.example.com/stacks-queues) 🔄
-     - [Hash Tables](https://www.example.com/hash-tables) 🗄️
+     - Hash Tables 🗄️
+          - [Sum two]https://fuschia-runner-0d2.notion.site/Two-Sum-d9407a6b64fd4e9bab8fd9bc7e63cb5b
 
 Feel free to explore and contribute to enhance your understanding of software engineering concepts!
